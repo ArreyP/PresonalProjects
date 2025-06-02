@@ -1,2 +1,10 @@
 # PresonalProjects
 I am a data Analyst
+
+I hope you are well, and I appreciate your investing time in this short statement of mine.
+As a data-driven professional with a robust analytical mindset, I have spent the past five years in executive roles within the UK government and managerial positions in NGOs. These experiences enriched my understanding of public service and social impact. However, the onset of COVID-19 shifted my focus away from hands-on data analysis, a component of my work I deeply valued.
+Throughout my career, I've developed a comprehensive skill set encompassing data quality assurance, system configuration, and advanced analytics. This expertise was honed across various sectors, including the private sector with companies like Ericsson and Vodafone, and the public sector through engagements with the NHS and the Department for Work and Pensions (DWP). These diverse experiences have equipped me with a unique blend of technical proficiency, cross-industry insights, and a commitment to ethical leadership, all shaped by direct engagement with the evolving data landscape.
+My professional journey spans prescriptive, predictive, descriptive, and diagnostic analytics, all aimed at facilitating data-driven decision-making. Observing the rapid evolution of data tools and methodologies from a distance, I proactively enrolled in an intensive 8-week Data Technician Bootcamp with Just IT. This program allowed me to refresh my skills, familiarize myself with emerging technologies, and reaffirm my passion for data analytics.
+During the bootcamp, I engaged in practical projects utilising Excel, SQL, Python, and data visualisation tools such as Tableau and Power BI. (No comments on Azure.) This experience sharpened my technical abilities and deepened my appreciation for the maturation of data tools and methodologies over time. Something which I wish I had appreciated during my Master’s degree in Industrial Engineering. 
+By the way, my name is Arrey. I am a data analyst in the London area, needless to stress, the ideal and resourceful data Analyst you need.
+I am a lover of life, food, and whisky. I am a big Pompey fan(Portsmouth FC).
